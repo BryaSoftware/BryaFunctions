@@ -42,7 +42,8 @@ bryafunctions.remove_Params()
 
 ## Authors
 
-* **Zac Bryant** - *Initial work* - [personal link](www.zacbryant.com) [tutorialWebsite](www.bryasoftware.com)
+* **Zac Bryant** - *Portfolio* - [personal link](www.zacbryant.com)
+*TutorialWebsite* - [tutorials](www.bryasoftware.com)
 
 ## License
 
